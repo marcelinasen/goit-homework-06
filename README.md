@@ -13,8 +13,7 @@ __Continuous Integration:__
 
 __Continuous Delivery:__
 
-- GitHub Actions
-- 
+- set up workflow in GitHub Actions
 
 __Requirements:__
 
